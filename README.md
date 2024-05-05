@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Ferhat 👋
 
-<!--
-**Ferhat1996/Ferhat1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm currently pursuing my Master's in Economics at Ludwig Maximilian University in Munich. My academic focus is on data analytics, modeling, and applied econometrics. I love using data to uncover insights, and I'm passionate about building models that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+- **Data Analysis:** I enjoy exploring datasets, finding patterns, and drawing meaningful conclusions.
+- **Modeling:** Whether it's regression analysis, time series, or machine learning models, I'm into it all.
+- **Applied Econometrics:** I apply statistical methods to economic data to test hypotheses and make predictions.
+
+## Get in Touch
+
+Feel free to explore my repositories to see my work. If you'd like to collaborate on a project or just have a chat about economics and data science, you can reach out to me via (https://www.linkedin.com/in/ferhatkutluca/)
+
+Thanks for stopping by!
